@@ -1,4 +1,4 @@
-package main.Java.com.sawbackIT.main;
+package main.Java.com.tersch.main;
 import java.util.Scanner;
 
 public class main {

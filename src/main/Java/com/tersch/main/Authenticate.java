@@ -1,4 +1,4 @@
-package main.Java.com.sawbackIT.main;
+package main.Java.com.tersch.main;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.util.logging.Level;

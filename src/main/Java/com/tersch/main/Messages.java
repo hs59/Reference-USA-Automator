@@ -1,4 +1,4 @@
-package main.Java.com.sawbackIT.main;
+package main.Java.com.tersch.main;
 
 /**     Purpose of this class is to hold a selection of methods that
  *      print messages to the user, such as "Welcome"
